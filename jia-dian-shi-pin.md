@@ -1,3 +1,5 @@
 # 加点视频
 
-<figure><img src=".gitbook/assets/12 (8).JPG" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.youtube.com/watch?v=w2Ov5jzm3j8" %}
+
+{% embed url="https://www.bilibili.com/video/BV1Va14BLE6Z" %}
