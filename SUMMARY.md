@@ -1,4 +1,4 @@
 # Table of contents
 
-* [页面](README.md)
-* [docs](<README (1).md>)
+* [示例页面](README.md)
+* [新页面](<README (1).md>)
